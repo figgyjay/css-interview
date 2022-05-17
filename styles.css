@@ -1,0 +1,29 @@
+h1{
+    border: 1px solid blue;
+    color: rgb(216, 38, 14);
+    text-align: center;
+    border-radius: 10px;
+}
+div {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: beige;
+}
+h3{
+    font-style: italic;
+    color:blue;
+    text-align: center;
+}
+#christopher{
+    border: 10px solid blue;
+    color:rgb(216, 38, 14);
+    text-align: center;
+}
+li{
+    margin: 10px;
+    font-style: italic;
+}
+image{
+    border-radius: 10px;
+}
